@@ -86,7 +86,7 @@ header {
 }
     /* CAROUSEL */
 .carousel {
-    background-image: url("b3.jpg");
+    background-image: url("../img/b3.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -109,9 +109,9 @@ header {
     /* animation: upDown 1s linear 0s infinite; */
     /* animation: upDown2 1s linear 0s infinite; */
 /* } */
-.carousel__content:hover button {
-    animation: upDown3 2s 1;
-}
+/* .carousel__content:hover button {
+    animation: upDown3 2s 1 alternate;
+} */
     /* INTRO */
 .intro {
     display: grid;
