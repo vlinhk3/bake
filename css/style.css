@@ -86,7 +86,7 @@ header {
 }
     /* CAROUSEL */
 .carousel {
-    background-image: url("../img/b3.jpg");
+    background-image: url("b3.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
